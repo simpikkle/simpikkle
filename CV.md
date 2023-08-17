@@ -1,7 +1,7 @@
 # Elena Ignatik, Software Engineer
-[https://www.linkedin.com/in/elenaignatik/]
+https://www.linkedin.com/in/elenaignatik/
 
-[elena.a.ignatik@gmail.com]
+elena.a.ignatik@gmail.com
 
 Amsterdam, Netherlands
 
@@ -14,13 +14,13 @@ I have more than 7 years of experience in different fields of software engineeri
 *Feb 2021 - Present · 2 yr 7 mos*
 
 As a part of Developer Experience team:
-- Hosted a React server components workshop for WeAreDevelopers 2023 conference together with Will Bishop (you can read about it [here])
+- Hosted a React server components workshop for WeAreDevelopers 2023 conference together with Will Bishop (you can read about it [here](https://medium.com/@simpikkle/i-finally-got-to-speak-in-public-and-public-didnt-hate-it-bb65f90c01e1)
 - Increased a number of developers and applications by building a backend for a system of incentives
-- Simplified the delivery of the API documentation and onboarding materials by driving adoption and [building the tooling] for the design first approach
+- Simplified the delivery of the API documentation and onboarding materials by driving adoption and [building the tooling](https://medium.com/miro-engineering/how-the-miro-developer-platform-leverages-contract-testing-91fae20987d1) for the design first approach
 - Started working on the full stack features to streamline the delivery
   
 As a part of Platform API team:
-- Along with a team of amazing engineers created and launched [Miro Platform v2] (you can read about it [here])
+- Along with a team of amazing engineers created and launched [Miro Platform v2](https://developers.miro.com/) (you can read about it [here](https://medium.com/miro-engineering/meet-miro-engineering-elena-ignatik-and-the-evolution-of-the-developer-platform-d878c170f1b0))
 - Simplified the investigation and monitoring of bugs and incidents by introducing the new error handling system
   
 **Skills**: Kotlin · Gradle · AWS · Snowflake · Grafana · Kibana · Elastic Stack (ELK) · Github actions · TypeScript · K8s · Ingress · Terraform · Helm · JavaScript · Python · React · Distributed systems
