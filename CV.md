@@ -18,11 +18,12 @@ As a part of Developer Experience team:
 - Increased a number of developers and applications by building a backend for a system of incentives
 - Simplified the delivery of the API documentation and onboarding materials by driving adoption and [building the tooling] for the design first approach
 - Started working on the full stack features to streamline the delivery
-- 
+  
 As a part of Platform API team:
 - Along with a team of amazing engineers created and launched [Miro Platform v2] (you can read about it [here])
 - Simplified the investigation and monitoring of bugs and incidents by introducing the new error handling system
-Skills: Kotlin · Gradle · AWS · Snowflake · Grafana · Kibana · Elastic Stack (ELK) · Github actions · TypeScript · K8s · Ingress · Terraform · Helm · JavaScript · Python · React · Distributed systems
+  
+**Skills**: Kotlin · Gradle · AWS · Snowflake · Grafana · Kibana · Elastic Stack (ELK) · Github actions · TypeScript · K8s · Ingress · Terraform · Helm · JavaScript · Python · React · Distributed systems
 
 ### Senior Java Engineer at Grid Dynamics, Krakow (PL)/Tampa (FL, US)
 
@@ -35,7 +36,8 @@ SDET → Java engineer → Senior Java Engineer → Team Lead
 - Was a team lead and a people manager to up to 13 people at a time
 - Solved complex business problems by parsing them with custom grammar + ANLTR to allow modifications to Gherkin format
 - Designed and implemented an advanced profiling system to allow debugging scenarios execution without accessing the code and speed up bug investigation. As a result, roughly 80% of bugs don’t require coding and were one-line fixes in text files
-Skils: Java · Maven · Spring · GIT · SQL · AOP · AspectJ · REST · ANTLR · JUnit · TestNG · Gatling · Gherkin · Mockito · agile · mentorship · team leading · Splunk · TFS · JIRA · Technical documentation · Design patterns · logging · monitoring and observability
+  
+**Skils**: Java · Maven · Spring · GIT · SQL · AOP · AspectJ · REST · ANTLR · JUnit · TestNG · Gatling · Gherkin · Mockito · agile · mentorship · team leading · Splunk · TFS · JIRA · Technical documentation · Design patterns · logging · monitoring and observability
 
 ## Education
 ### Bachelor’s degree in Computer Science
